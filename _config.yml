@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2744361
+  brandStrength: 0.04154758
+  lightness: 0.5314032
+  rhythmicContrast: 0.5642151
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.2046187
+name: Daniel Marsh
